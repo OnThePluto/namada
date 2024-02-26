@@ -34,7 +34,7 @@ hermes create channel \
   --b-port transfer \
   --new-client-connection --yes
 ```
-```json
+```
 SUCCESS Channel {
     ordering: Unordered,
     a_side: ChannelSide {
